@@ -1,3 +1,3 @@
 # basicCalculator
-Android calculator using java for the back end, and xml for the front end
+Basic Android calculator using Java
 Android devoloper
